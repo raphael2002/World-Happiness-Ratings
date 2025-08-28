@@ -14,5 +14,6 @@ To predict the next top 10 using Machine Learning Models.
 6. Heteroscedasticity test - for validating the assumptions of regression models, ensuring the efficiency of estimates, and improving the accuracy of inference.
 7. Forecasting - to predict the top 10 happiest countries for next year.
 # Results:
-1. Linear Regression: Cross-validated MSE is 0.224, looks like it is the best fit model. It suggests that the linear model is capturing the underlying patterns in the data effectively.
+1. Linear Regression: Cross-validated MSE is 0.224, which looks like it is the best-fit model. It suggests that the linear model is capturing the underlying patterns in the data effectively.
 2. Ridge Regression: Cross-validated MSE is 0.227, which is very close to the linear regression model. This indicates that Ridge regression is also a good fit for the data, and it might be beneficial if we have concerns about overfitting, as Ridge regression adds a penalty to the coefficients.
+Note: This project was built as part of a learning journey and is intended for demonstration only.
