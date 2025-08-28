@@ -1,4 +1,4 @@
-# World-Happiness-Ratings Predictive Modeling using WHR2023 dataset
+# World-Happiness-Ratings Predictive Modeling using WHR2023 Dataset
 # About the Dataset:
 The World Happiness Report is an annual publication that gives rankings based on happiness levels.
 The dataset aims to provide insights into the factors that contribute to happiness.
